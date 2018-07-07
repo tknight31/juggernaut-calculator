@@ -21,6 +21,49 @@
 .App-intro {
   font-size: large;
 }
+.main-table {
+  margin: 50px auto;
+  width: 85%;
+  font-size:1.5em;
+}
+.basic-form {
+  margin-top:200px;
+}
+.basic-form input, .basic-form button {
+  font-size: 2.5em;
+  padding:10px;
+  font-family: 'Lato', sans-serif;
+}
+
+.basic-form button {
+  font-size: 2.02em;
+  padding:10px;
+  text-transform: uppercase;
+  font-weight:500;
+  font-family: 'Oswald', sans-serif;
+}
+table {
+  border: 1px solid grey;
+  width: 100%;
+  line-height: 1.4em;
+}
+tr {
+  border-top: 1px solid black;
+  background: #dcdcdc;
+}
+
+th {
+  background: #858585;
+  padding:13px;
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  font-size:1.2em;
+  letter-spacing: 3px;
+}
+
+td {
+  padding:13px;
+}
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
