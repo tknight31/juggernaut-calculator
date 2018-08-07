@@ -75,6 +75,29 @@ class MainTable extends React.Component {
               {this.props.weight * 0.9} x AMAP<br />
             </td>
           </tr>
+          <tr>
+            <td>Deload</td>
+            <td>
+              {this.props.weight * 0.4} x 5<br />
+              {this.props.weight * 0.5} x 3<br />
+              {this.props.weight * 0.6} x 1<br />
+            </td>
+            <td>
+              {this.props.weight * 0.4} x 5<br />
+              {this.props.weight * 0.5} x 3<br />
+              {this.props.weight * 0.6} x 1<br />
+            </td>
+            <td>
+              {this.props.weight * 0.4} x 5<br />
+              {this.props.weight * 0.5} x 3<br />
+              {this.props.weight * 0.6} x 1<br />
+            </td>
+            <td>
+              {this.props.weight * 0.4} x 5<br />
+              {this.props.weight * 0.5} x 3<br />
+              {this.props.weight * 0.6} x 1<br />
+            </td>
+          </tr>
         </table>
       </div>
     );

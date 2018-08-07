@@ -75,6 +75,29 @@ class MainTable extends React.Component {
               90% x AMAP<br />
             </td>
           </tr>
+          <tr>
+            <td>Deload</td>
+            <td>
+              40% x 5<br />
+              50% x 5<br />
+              60% x 5<br />
+            </td>
+            <td>
+              40% x 5<br />
+              50% x 5<br />
+              60% x 5<br />
+            </td>
+            <td>
+              40% x 5<br />
+              50% x 5<br />
+              60% x 5<br />
+            </td>
+            <td>
+              40% x 5<br />
+              50% x 5<br />
+              60% x 5<br />
+            </td>
+          </tr>
         </table>
       </div>
     );
